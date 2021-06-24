@@ -1,0 +1,15 @@
+.about {
+  background-color: white;
+  font-size: 1em;
+}
+
+.profile {
+  max-width: 20em;
+}
+
+.my-details {
+  background-color: rgba(255, 255, 255, 0.747);
+}
+.color {
+  color: white;
+}
