@@ -11,10 +11,11 @@ body {
   font-family: "Karla", sans-serif;
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#959595+0,0d0d0d+46,010101+50,0a0a0a+53,4e4e4e+76,383838+87,1b1b1b+100;Black+Gloss+Pipe */
   background-image: linear-gradient(
+    to bottom,
     -225deg,
-    #f5f5f5 0%,
-    #f5f5f5 48%,
-    #f5f5f5 100%
+    #ffffff 0%,
+    #ffffff 48%,
+    #ffffff 100%
   );
   /* Add the blur effect */
 

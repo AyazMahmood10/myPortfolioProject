@@ -18,7 +18,7 @@ const Skills = () => {
         <Row className="d-flex justify-content-around">
           {/* Frontend */}
           <Col md={4}>
-            <Card className="focus mt-2 mb-2">
+            <Card className="focus mt-2 mb-2 card-body-color">
               <Card.Body>
                 {/* Frontend */}
                 <Card.Title className="text-center  card-title">
@@ -51,7 +51,7 @@ const Skills = () => {
 
           {/* Backend */}
           <Col md={4}>
-            <Card className="focus mt-2 mb-2">
+            <Card className="focus mt-2 mb-2 card-body-color">
               <Card.Body>
                 <Card.Title className="text-center  card-title">
                   Backend
@@ -81,7 +81,7 @@ const Skills = () => {
             </Card>
 
             {/* Hosting Platforms */}
-            <Card className="focus mt-2 mb-2 ">
+            <Card className="focus mt-2 mb-2 card-body-color">
               <Card.Body>
                 <Card.Title className="text-center  card-title">
                   Hosting Platforms
@@ -113,7 +113,7 @@ const Skills = () => {
 
           {/* Programming Languages */}
           <Col md={4}>
-            <Card className="focus mt-2 mb-2">
+            <Card className="focus mt-2 mb-2 card-body-color">
               <Card.Body>
                 <Card.Title className="text-center  card-title">
                   Programming Languages
@@ -144,7 +144,7 @@ const Skills = () => {
 
             {/* Database */}
 
-            <Card className="focus mt-2 mb-2">
+            <Card className="focus mt-2 mb-2 card-body-color">
               <Card.Body>
                 <Card.Title className="text-center  card-title">
                   Database
@@ -174,7 +174,7 @@ const Skills = () => {
             </Card>
             {/* Version Control */}
 
-            <Card className="focus mt-2 mb-2">
+            <Card className="focus mt-2 mb-2 card-body-color">
               <Card.Body>
                 <Card.Title className="text-center  card-title">
                   Version Control

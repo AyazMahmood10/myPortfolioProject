@@ -26,7 +26,7 @@ const Experience = () => {
                   alt="Cognizant logo"
                 />
               </Card.Header>
-              <Card.Body className="d-flex justify-content-center flex-column">
+              <Card.Body className="d-flex justify-content-center flex-column card-body-color">
                 <div>
                   <Card.Title className="text-center">
                     {" "}
