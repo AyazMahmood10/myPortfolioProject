@@ -8,7 +8,8 @@ const MyNavbar = () => {
   return (
     <>
       <Navbar
-        collapseOnSelect="top"
+        fixed="top"
+        collapseOnSelect
         expand="md"
         variant="dark"
         className="animate-navbar nav-theme justify-content-between"
