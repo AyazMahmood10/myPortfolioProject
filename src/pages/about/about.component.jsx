@@ -30,7 +30,7 @@ const About = () => {
 
           {/*About me description*/}
           <Col xs={12} md={6}>
-            <Row className=" align-items-start p-2 my-details rounded">
+            <Row className=" align-items-start p-2 my-details font-details-about rounded">
               {/* description */}
               Hi there! I am <strong>&nbsp;Ayaz Mahmood.</strong>
               <br />

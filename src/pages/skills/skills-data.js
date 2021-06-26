@@ -18,6 +18,7 @@ import L_GIT from "../../assets/img/skills/git-icon.svg";
 import L_GITHUB_PAGES from "../../assets/img/skills/github.svg";
 import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
 import L_PYTHON from "../../assets/img/skills/python.svg";
+import L_HEROKU from "../../assets/img/skills/heroku.svg";
 
 export const skills = {
   frontend: [
@@ -116,6 +117,12 @@ export const skills = {
     },
   ],
   hostingPlatforms: [
+    {
+      link: "https://www.heroku.com/",
+      imgAltText: "Heroku",
+      imgSrc: L_HEROKU,
+      skillName: "Heroku",
+    },
     {
       link: "https://pages.github.com/",
       imgAltText: "GitHub Pages",

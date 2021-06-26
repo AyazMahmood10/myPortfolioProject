@@ -1,0 +1,27 @@
+.contact-jumbotron {
+  /*background-image: url("../../assets/img/background/background.webp");*/
+  background-color: #e5ebe3;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.g-color {
+  background-color: black;
+  color: white;
+}
+.l-color {
+  background-color: #007bff;
+  color: white;
+}
+.e-color {
+  background-color: #dc3545;
+  color: white;
+}
+.fa-github-square {
+  color: white;
+}
+.fa-linkedin {
+  color: white;
+}
+.fa-envelope-square {
+  color: white;
+}

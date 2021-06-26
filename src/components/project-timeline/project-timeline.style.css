@@ -1,0 +1,26 @@
+.accordian-main {
+  cursor: pointer;
+  display: inline-block;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-size: 14px;
+  background-color: #7a89ce !important;
+  border: none;
+  border-radius: 4px;
+
+  padding: 10px;
+  color: #ffffff;
+}
+.markdown {
+  color: black;
+}
+.list-styles {
+  list-style-type: circle;
+}
+
+.image-style1 {
+  width: 3em;
+}
+.url-button {
+  background-color: #7a89ce !important;
+}
