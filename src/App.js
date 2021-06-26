@@ -10,6 +10,7 @@ import MyCarousal from "./components/my-carousal/my-carousal.component";
 import TitleMessage from "./components/title-message/title-message.component";
 import About from "./pages/about/about.component";
 import Skills from "./pages/skills/skills.component";
+import Experience from "./pages/experience/experience.component";
 
 import "./App.css";
 
@@ -39,10 +40,20 @@ const App = () => {
 
       <div>
         <Container className="container-box rounded">
-          <Fade duration={500}>
+          <Slide bottom duration={500}>
             <hr />
             <Skills />
-          </Fade>
+          </Slide>
+        </Container>
+      </div>
+
+      {/* Experience */}
+      <div>
+        <Container className="container-box rounded">
+          <Slide duration={500}>
+            <hr />
+            <Experience />
+          </Slide>
         </Container>
       </div>
     </div>
