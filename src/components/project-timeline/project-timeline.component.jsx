@@ -13,11 +13,7 @@ import Image from "react-bootstrap/Image";
 
 import "./project-timeline.style.css";
 
-import tempImg from "../../assets/img/skills/git-icon.svg";
-
 // projects
-import L_ReactToDoList from "../../assets/img/projects/React_ToDo_List.webp";
-import L_Forkify from "../../assets/img/projects/forkify.png";
 import L_Android from "../../assets/img/projects/android.png";
 import L_Hotel from "../../assets/img/projects/L_HOTEL.jpeg";
 import L_News from "../../assets/img/projects/news_reader.webp";
@@ -28,15 +24,12 @@ import L_Snake from "../../assets/img/projects/snake.png";
 import L_REACT from "../../assets/img/skills/react.svg";
 import L_AWS from "../../assets/img/skills/aws.png";
 import L_NODE_JS from "../../assets/img/skills/nodejs.svg";
-import L_EXPRESS from "../../assets/img/skills/express.svg";
 import L_JAVA from "../../assets/img/skills/java.svg";
 import L_MONGODB from "../../assets/img/skills/mongodb.svg";
 import L_WPS from "../../assets/img/skills/PowerShell.svg";
 import L_HTML5 from "../../assets/img/skills/html-5.svg";
 import L_CSS3 from "../../assets/img/skills/css3.svg";
 import L_BOOTSTRAP4 from "../../assets/img/skills/bootstrap-4.svg";
-import L_DJANGO from "../../assets/img/skills/django.svg";
-import L_GIT from "../../assets/img/skills/github-api.svg";
 
 const customTheme = createTheme(themes.default, {
   card: {

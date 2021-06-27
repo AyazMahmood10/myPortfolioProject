@@ -4,8 +4,6 @@ import Button from "react-bootstrap/Button";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
 
-import Image from "react-bootstrap/Image";
-
 import "./contact-form.style.css";
 
 const ContactForm = () => {
