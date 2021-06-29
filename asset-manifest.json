@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myPortfolioProject/static/css/main.43e973e7.chunk.css",
+    "main.css": "/myPortfolioProject/static/css/main.3761a51d.chunk.css",
     "main.js": "/myPortfolioProject/static/js/main.8d2c5f42.chunk.js",
     "main.js.map": "/myPortfolioProject/static/js/main.8d2c5f42.chunk.js.map",
     "runtime-main.js": "/myPortfolioProject/static/js/runtime-main.b0339b4c.js",
@@ -8,7 +8,7 @@
     "static/js/2.0e4472bf.chunk.js": "/myPortfolioProject/static/js/2.0e4472bf.chunk.js",
     "static/js/2.0e4472bf.chunk.js.map": "/myPortfolioProject/static/js/2.0e4472bf.chunk.js.map",
     "index.html": "/myPortfolioProject/index.html",
-    "static/css/main.43e973e7.chunk.css.map": "/myPortfolioProject/static/css/main.43e973e7.chunk.css.map",
+    "static/css/main.3761a51d.chunk.css.map": "/myPortfolioProject/static/css/main.3761a51d.chunk.css.map",
     "static/js/2.0e4472bf.chunk.js.LICENSE.txt": "/myPortfolioProject/static/js/2.0e4472bf.chunk.js.LICENSE.txt",
     "static/media/Ayaz_resume.2d6688d2.pdf": "/myPortfolioProject/static/media/Ayaz_resume.2d6688d2.pdf",
     "static/media/PowerShell.72744793.svg": "/myPortfolioProject/static/media/PowerShell.72744793.svg",
@@ -48,7 +48,7 @@
   "entrypoints": [
     "static/js/runtime-main.b0339b4c.js",
     "static/js/2.0e4472bf.chunk.js",
-    "static/css/main.43e973e7.chunk.css",
+    "static/css/main.3761a51d.chunk.css",
     "static/js/main.8d2c5f42.chunk.js"
   ]
 }
