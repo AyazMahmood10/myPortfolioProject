@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/myPortfolioProject/static/css/main.2177edd9.chunk.css",
-    "main.js": "/myPortfolioProject/static/js/main.aecf0faa.chunk.js",
-    "main.js.map": "/myPortfolioProject/static/js/main.aecf0faa.chunk.js.map",
+    "main.css": "/myPortfolioProject/static/css/main.5f961f08.chunk.css",
+    "main.js": "/myPortfolioProject/static/js/main.9d4381bd.chunk.js",
+    "main.js.map": "/myPortfolioProject/static/js/main.9d4381bd.chunk.js.map",
     "runtime-main.js": "/myPortfolioProject/static/js/runtime-main.b0339b4c.js",
     "runtime-main.js.map": "/myPortfolioProject/static/js/runtime-main.b0339b4c.js.map",
     "static/js/2.0e4472bf.chunk.js": "/myPortfolioProject/static/js/2.0e4472bf.chunk.js",
     "static/js/2.0e4472bf.chunk.js.map": "/myPortfolioProject/static/js/2.0e4472bf.chunk.js.map",
     "index.html": "/myPortfolioProject/index.html",
-    "static/css/main.2177edd9.chunk.css.map": "/myPortfolioProject/static/css/main.2177edd9.chunk.css.map",
+    "static/css/main.5f961f08.chunk.css.map": "/myPortfolioProject/static/css/main.5f961f08.chunk.css.map",
     "static/js/2.0e4472bf.chunk.js.LICENSE.txt": "/myPortfolioProject/static/js/2.0e4472bf.chunk.js.LICENSE.txt",
     "static/media/Ayaz_resume.2d6688d2.pdf": "/myPortfolioProject/static/media/Ayaz_resume.2d6688d2.pdf",
     "static/media/PowerShell.72744793.svg": "/myPortfolioProject/static/media/PowerShell.72744793.svg",
@@ -32,7 +32,7 @@
     "static/media/mysql.80964b28.png": "/myPortfolioProject/static/media/mysql.80964b28.png",
     "static/media/news_reader.272223c3.webp": "/myPortfolioProject/static/media/news_reader.272223c3.webp",
     "static/media/nodejs.52cbf9a8.svg": "/myPortfolioProject/static/media/nodejs.52cbf9a8.svg",
-    "static/media/profile.c3f0a2a8.webp": "/myPortfolioProject/static/media/profile.c3f0a2a8.webp",
+    "static/media/profile.d5cb9593.webp": "/myPortfolioProject/static/media/profile.d5cb9593.webp",
     "static/media/python.e6d7dc73.svg": "/myPortfolioProject/static/media/python.e6d7dc73.svg",
     "static/media/react-bootstrap.534ba574.svg": "/myPortfolioProject/static/media/react-bootstrap.534ba574.svg",
     "static/media/react-router.a87b7227.svg": "/myPortfolioProject/static/media/react-router.a87b7227.svg",
@@ -48,7 +48,7 @@
   "entrypoints": [
     "static/js/runtime-main.b0339b4c.js",
     "static/js/2.0e4472bf.chunk.js",
-    "static/css/main.2177edd9.chunk.css",
-    "static/js/main.aecf0faa.chunk.js"
+    "static/css/main.5f961f08.chunk.css",
+    "static/js/main.9d4381bd.chunk.js"
   ]
 }
