@@ -37,21 +37,25 @@ const Experience = () => {
                   <Card.Text className="text-center style">
                     <strong> Full Stack Developer </strong>
                     <br />
-                    <strong>Technology:</strong> node.js, JavaScript , HTML,
-                    MongoDB
+                    <strong>Technology:</strong> React JS, Node JS, JavaScript ,
+                    HTML, CSS, MongoDB
                     <br />
                     <strong>Duration:</strong> October 2018 - Present
                     <br />
                     <strong> Description </strong>
                     <ul className="text-left">
                       <li>
-                        Redesigned UI accessibility for Cognizant internal
-                        website by fixing HTML, CSS, JavaScript Issues
+                        Integral member in design, analysis and development 
+                        efforts for SPA web- applications to solve complex business
+                        problems.
                       </li>
                       <li>
-                        Built custom dashboard development by displaying various
-                        charts like Line, Bar chart and Pie chart to one’s
-                        compliance using Angular
+                        Involved in developing new features and refining
+                        existing features and functionalities.
+                      </li>
+                      <li>
+                        Responsible for immediately acting upon and fixing any
+                        production issues.
                       </li>
                       <li>
                         {" "}
