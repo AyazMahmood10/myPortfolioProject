@@ -50,7 +50,7 @@ const Experience = () => {
                         problems.
                       </li>
                       <li>
-                        Involved in developing new features and refining
+                        Involved in developing new features, refining
                         existing features and functionalities.
                       </li>
                       <li>
