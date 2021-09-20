@@ -48,19 +48,14 @@ const Experience = () => {
                         problems.
                       </li>
                       <li>
-                        Involved in developing new features, refining
-                        existing features and functionalities.
+                        Developed new features, refined existing features and functionalities.
                       </li>
                       <li>
-                        Responsible for immediately acting upon and fixing any
-                        production issues.
+                        Responsible for immediately acting upon and fixing any production issues.
                       </li>
                       <li>
                         {" "}
-                        Engineered strongly typed components using React,
-                        leveraged Relay store in updating UI, Reduced code
-                        clutter by 70%, and achieved clear flow of data from
-                        model to view.
+                        Understanding business prerequisites, planning and executing frameworks appropriately.
                       </li>
                     </ul>
                   </div>
@@ -102,24 +97,14 @@ const Experience = () => {
                     <strong> Description </strong>
                     <ul className="text-left">
                       <li>
-                        Integral member in design, analysis and development 
-                        efforts for SPA web- applications to solve complex business
-                        problems.
+                        Redesigned UI accessibility for Cognizant internal website by 
+                        fixing HTML, CSS, JavaScript Issues.
                       </li>
                       <li>
-                        Involved in developing new features, refining
-                        existing features and functionalities.
+                        Engineered strongly typed components using React, leveraged Relay store in updating UI.
                       </li>
                       <li>
-                        Responsible for immediately acting upon and fixing any
-                        production issues.
-                      </li>
-                      <li>
-                        {" "}
-                        Engineered strongly typed components using React,
-                        leveraged Relay store in updating UI, Reduced code
-                        clutter by 70%, and achieved clear flow of data from
-                        model to view.
+                        Reduced code clutter by 70% and achieved clear flow of data from model to view.
                       </li>
                     </ul>
                   </div>

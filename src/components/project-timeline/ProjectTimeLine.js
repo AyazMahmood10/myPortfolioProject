@@ -196,7 +196,7 @@ const ProjectTimeLine = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong> A dictionary which supports 12 langages.
+                        <strong>Description:</strong> A dictionary which supports 12 languages.
                         Users can enter a word then select the language and it will show the
                         available meanings with examples.
                         <br />
@@ -208,6 +208,10 @@ const ProjectTimeLine = () => {
                           </li>
                           <li>
                             Supports 12 languages.
+                          </li>
+                          <li>
+                             Dark mode feature which users can use to switch between light and dark 
+                             theme as desired.
                           </li>
                           <li>
                             Data is fetched using Axios from the open source dictionary API.

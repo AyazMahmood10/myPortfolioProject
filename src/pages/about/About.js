@@ -34,8 +34,8 @@ const About = () => {
               {/* description */}
               Hi there! I am <strong>&nbsp;Ayaz Mahmood.</strong>
               <br />
-              React JS Developer having enterprise level experience in React.js and
-              intermediate level knowledge of Express.js, Node.js and Mongo DB.
+              React JS Developer having enterprise level experience in React JS and
+              intermediate level knowledge of Express JS, Node JS and Mongo DB.
               <br />I have strong fundamentals in computer algorithms, dynamic
               <br />
               programming, object oriented programming, relational and NoSQL databases.
@@ -45,11 +45,11 @@ const About = () => {
               <br />
               amazing experience with the best level of quality and service to
               them.
-              <br />I love learning about new technologies, what problems are
+              <br />Love learning about new technologies, what problems are
               they solving and how can I use them to build better and scalable
               products.
               <br />
-              Outside of computers, I love sports. I have played upto national
+              Outside of programming world, I love sports. I have played upto national
               <br />
               level in badminton, representing my state, Jharkhand, India.
               <br />
