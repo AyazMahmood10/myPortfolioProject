@@ -8,7 +8,7 @@ import Col from "react-bootstrap/Col";
 //skills
 import { skills } from "./skills-data";
 
-import "./skills.style.css";
+import "./SkillsComponent.css";
 
 const Skills = () => {
   return (

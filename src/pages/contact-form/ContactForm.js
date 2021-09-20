@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
 
-import "./contact-form.style.css";
+import "./ContactForm.css";
 
 const ContactForm = () => {
   return (
@@ -29,7 +29,7 @@ const ContactForm = () => {
             </div>
             <div className="m-2">
               <a
-                href="https://www.linkedin.com/in/ayaz-mahmood-0a8b0813b"
+                href="https://www.linkedin.com/in/ayaz-mahmood-10"
                 target="_blank"
                 rel="noopener noreferrer"
               >

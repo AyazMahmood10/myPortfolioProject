@@ -7,7 +7,7 @@ import Profile from "../../assets/img/profile/profile.webp";
 import Button from "react-bootstrap/Button";
 import Pdf from "../../components/my-navbar/Ayaz_resume.pdf";
 
-import "./about.style.css";
+import "./About.css";
 
 const About = () => {
   return (
@@ -34,11 +34,11 @@ const About = () => {
               {/* description */}
               Hi there! I am <strong>&nbsp;Ayaz Mahmood.</strong>
               <br />
-              I am a Full Stack Web Developer with React.js, Redux, Express.js,
-              Node.js and Mongo DB as my tech stack.
+              React JS Developer having enterprise level experience in React.js and
+              intermediate level knowledge of Express.js, Node.js and Mongo DB.
               <br />I have strong fundamentals in computer algorithms, dynamic
               <br />
-              programming, object oriented programming and relational databases.
+              programming, object oriented programming, relational and NoSQL databases.
               <br />
               Working with the clients, my goal is always driven towards
               providing
@@ -52,6 +52,8 @@ const About = () => {
               Outside of computers, I love sports. I have played upto national
               <br />
               level in badminton, representing my state, Jharkhand, India.
+              <br />
+              Also, I have been the captain of my college's football team.
               <br />
             </Row>
 
@@ -85,7 +87,7 @@ const About = () => {
                 </div>
                 <div>
                   <a
-                    href="https://linkedin.com/in/ayaz-mahmood-0a8b0813b"
+                    href="https://www.linkedin.com/in/ayaz-mahmood-10"
                     target="_blank"
                     rel="noopener noreferrer"
                   >

@@ -1,6 +1,5 @@
 import L_HTML5 from "../../assets/img/skills/html-5.svg";
 import L_CSS3 from "../../assets/img/skills/css3.svg";
-import L_SASS from "../../assets/img/skills/sass-1.svg";
 import L_BOOTSTRAP from "../../assets/img/skills/bootstrap-4.svg";
 import L_REACT from "../../assets/img/skills/react.svg";
 import L_REDUX from "../../assets/img/skills/redux.svg";
@@ -10,8 +9,6 @@ import L_REACT_BOOTSTRAP from "../../assets/img/skills/react-bootstrap.svg";
 import L_STYLED_COMPONENTS from "../../assets/img/skills/styled-components.svg";
 import L_NODE_JS from "../../assets/img/skills/nodejs.svg";
 import L_EXPRESS from "../../assets/img/skills/express.svg";
-import L_DJANGO from "../../assets/img/skills/django.svg";
-import L_FLASK from "../../assets/img/skills/flask.svg";
 import L_MONGODB from "../../assets/img/skills/mongodb.svg";
 import L_MYSQL from "../../assets/img/skills/mysql.png";
 import L_GIT from "../../assets/img/skills/git-icon.svg";
@@ -19,6 +16,7 @@ import L_GITHUB_PAGES from "../../assets/img/skills/github.svg";
 import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
 import L_PYTHON from "../../assets/img/skills/python.svg";
 import L_HEROKU from "../../assets/img/skills/heroku.svg";
+import L_NETLIFY from "../../assets/img/skills/netlify.png"
 
 export const skills = {
   frontend: [
@@ -40,12 +38,12 @@ export const skills = {
       imgSrc: L_JAVASCRIPT,
       skillName: "JavaScript",
     },
-    {
-      link: "https://sass-lang.com/",
-      imgAltText: "Sass",
-      imgSrc: L_SASS,
-      skillName: "Sass",
-    },
+    // {
+    //   link: "https://sass-lang.com/",
+    //   imgAltText: "Sass",
+    //   imgSrc: L_SASS,
+    //   skillName: "Sass",
+    // },
     {
       link: "https://getbootstrap.com/",
       imgAltText: "Bootstrap",
@@ -103,18 +101,18 @@ export const skills = {
       imgSrc: L_EXPRESS,
       skillName: "Express",
     },
-    {
-      link: "https://www.djangoproject.com/",
-      imgAltText: "Django",
-      imgSrc: L_DJANGO,
-      skillName: "Django",
-    },
-    {
-      link: "https://flask.palletsprojects.com/",
-      imgAltText: "Flask",
-      imgSrc: L_FLASK,
-      skillName: "Flask",
-    },
+    // {
+    //   link: "https://www.djangoproject.com/",
+    //   imgAltText: "Django",
+    //   imgSrc: L_DJANGO,
+    //   skillName: "Django",
+    // },
+    // {
+    //   link: "https://flask.palletsprojects.com/",
+    //   imgAltText: "Flask",
+    //   imgSrc: L_FLASK,
+    //   skillName: "Flask",
+    // },
   ],
   hostingPlatforms: [
     {
@@ -128,6 +126,12 @@ export const skills = {
       imgAltText: "GitHub Pages",
       imgSrc: L_GITHUB_PAGES,
       skillName: "GitHub Pages",
+    },
+    {
+      link: "https://www.netlify.com/",
+      imgAltText: "Netlify",
+      imgSrc: L_NETLIFY,
+      skillName: "Netlify",
     },
   ],
   programmingLanguages: [

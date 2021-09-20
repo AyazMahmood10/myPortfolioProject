@@ -5,15 +5,15 @@ import { Parallax } from "react-parallax";
 import Container from "react-bootstrap/Container";
 
 // component
-import MyNavbar from "./components/my-navbar/mynavbar.component";
-import MyCarousal from "./components/my-carousal/my-carousal.component";
-import TitleMessage from "./components/title-message/title-message.component";
-import About from "./pages/about/about.component";
-import Skills from "./pages/skills/skills.component";
-import Experience from "./pages/experience/experience.component";
-import ProjectTimeLine from "./components/project-timeline/project-timeline.component";
-import ContactForm from "./pages/contact-form/contact-form.component";
-import FooterPanel from "./components/footer/footer.component";
+import MyNavbar from "./components/my-navbar/MyNavbar";
+import MyCarousal from "./components/my-carousal/MyCarousal";
+import TitleMessage from "./components/title-message/TitleMessage";
+import About from "./pages/about/About";
+import Skills from "./pages/skills/SkillsComponent";
+import Experience from "./pages/experience/Experience";
+import ProjectTimeLine from "./components/project-timeline/ProjectTimeLine";
+import ContactForm from "./pages/contact-form/ContactForm";
+import FooterPanel from "./components/footer/Footer";
 
 import "./App.css";
 
