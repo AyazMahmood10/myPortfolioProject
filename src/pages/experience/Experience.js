@@ -29,14 +29,14 @@ const Experience = () => {
                 <div>
                   <Card.Title className="text-center">
                     {" "}
-                    Programmer Analyst{" "}
+                    React Developer{" "}
                   </Card.Title>
                 </div>
                 <div>
                   <div className="text-center style">
-                    <strong> React Developer </strong>
+                    <strong> Programmer Analyst </strong>
                     <br />
-                    <strong>Technology:</strong> React JS, Node JS, Material-UI, JavaScript, HtML, CSS, Bootstrap 
+                    <strong>Technology:</strong> React JS, Node JS, Redux, Material-UI, JavaScript, HtML, CSS, Bootstrap 
                     <br />
                     <strong>Duration:</strong> January 2020 - Present
                     <br />
@@ -82,12 +82,12 @@ const Experience = () => {
                 <div>
                   <Card.Title className="text-center">
                     {" "}
-                    Programmer Analyst Trainee{" "}
+                    Software Developer{" "}
                   </Card.Title>
                 </div>
                 <div>
                   <div className="text-center style">
-                    <strong> Software Developer </strong>
+                    <strong> Programmer Analyst Trainee </strong>
                     <br />
                     <strong>Technology:</strong> React JS, JavaScript ,
                     HTML, CSS, Bootstrap

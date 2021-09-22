@@ -18,6 +18,7 @@ import L_Pong from "../../assets/img/projects/pong.png";
 import L_TextTract from "../../assets/img/projects/textTract.png";
 import L_Bookmark from "../../assets/img/projects/bookmark_app.png";
 import L_Dictionary from "../../assets/img/projects/dictionary.png";
+import L_PasswordGenerator from "../../assets/img/projects/password_generator.png"
 
 //images
 import L_REACT from "../../assets/img/skills/react.svg";
@@ -27,6 +28,7 @@ import L_BOOTSTRAP4 from "../../assets/img/skills/bootstrap-4.svg";
 import L_REACT_ROUTER from "../../assets/img/skills/react-router.svg";
 import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
 import L_MATERIALUI from "../../assets/img/skills/material-ui-1.svg";
+import L_Node from "../../assets/img/skills/nodejs.svg"
 
 const customTheme = createTheme(themes.default, {
   card: {
@@ -331,7 +333,7 @@ const ProjectTimeLine = () => {
                         <strong>Features:</strong>
                         <ul className="list-styles pt-1">
                           <li>A full game is of 7 points. Whoever scores to 7 first, wins.</li>
-                          <li>A canvas is created which contains the pad at the bottom and top of the canvas
+                          <li>A canvas is created which contains the paddle at the bottom and top of the canvas
                             One for the user and the other for computer.
                           </li>
                           <li>When a game is finished, an option is display for the rematch.</li>
@@ -470,6 +472,89 @@ const ProjectTimeLine = () => {
               <div className="d-flex justify-content-center flex-nowrap text-center ">
                 <UrlButton
                   href="https://github.com/AyazMahmood10/bookmark-app"
+                  target="_blank"
+                >
+                  SOURCE CODE
+                </UrlButton>
+              </div>
+            </div>
+          </ImageEvent>
+          {/* Project: Password Generator */}
+          <ImageEvent
+            date="07/06/2020"
+            className="text-center"
+            text="Node JS Password Generator"
+            src={L_PasswordGenerator}
+            alt="Node JS Password Generator"
+          >
+            <div className="d-flex justify-content-between flex-column mt-1">
+              <div>
+                <Accordion>
+                  <Card>
+                    <Accordion.Toggle
+                      as={Card.Header}
+                      eventKey="0"
+                      className="p-2 text-center accordian-main"
+                    >
+                      PROJECT DETAILS
+                    </Accordion.Toggle>
+
+                    <Accordion.Collapse eventKey="0" className="text-left">
+                      <Card.Body>
+                        <strong>Description:</strong> A command line password generator using
+                          Node JS.
+                        <br />
+                        <br />
+                        <strong>Features:</strong>
+                        <ul className="list-styles pt-1">
+                          <li>
+                            Generates a random password depending on the number of characters provided.
+                          </li>
+                          <li>
+                            By default it will be a random 8 character password which can contain alphabhets, 
+                            special characters and numbers. 
+                            The input and the length of the password can be specfied too.
+                          </li>
+                          <li>
+                            Genrated password can be copied to clipboard and also can be added to a text file.
+                          </li>
+                          <li>
+                            Created a symlink so that there will be a gloabl command for the password generator.
+                          </li>
+                        </ul>
+                        <strong>Tech used:</strong>
+                        <ul>
+                        <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_JAVASCRIPT}
+                                alt="JavaScript"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              JavaScript
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_Node}
+                                alt="Node JS"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              Node JS
+                            </span>
+                          </li>
+                        </ul>
+                      </Card.Body>
+                    </Accordion.Collapse>
+                  </Card>
+                </Accordion>
+              </div>
+              <div className="d-flex justify-content-center flex-nowrap text-center ">
+                <UrlButton
+                  href="https://github.com/AyazMahmood10/simplePasswordGenerator"
                   target="_blank"
                 >
                   SOURCE CODE

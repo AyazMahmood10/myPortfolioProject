@@ -14,7 +14,6 @@ import L_MYSQL from "../../assets/img/skills/mysql.png";
 import L_GIT from "../../assets/img/skills/git-icon.svg";
 import L_GITHUB_PAGES from "../../assets/img/skills/github.svg";
 import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
-import L_PYTHON from "../../assets/img/skills/python.svg";
 import L_HEROKU from "../../assets/img/skills/heroku.svg";
 import L_NETLIFY from "../../assets/img/skills/netlify.png"
 
@@ -38,12 +37,6 @@ export const skills = {
       imgSrc: L_JAVASCRIPT,
       skillName: "JavaScript",
     },
-    // {
-    //   link: "https://sass-lang.com/",
-    //   imgAltText: "Sass",
-    //   imgSrc: L_SASS,
-    //   skillName: "Sass",
-    // },
     {
       link: "https://getbootstrap.com/",
       imgAltText: "Bootstrap",
@@ -101,18 +94,6 @@ export const skills = {
       imgSrc: L_EXPRESS,
       skillName: "Express",
     },
-    // {
-    //   link: "https://www.djangoproject.com/",
-    //   imgAltText: "Django",
-    //   imgSrc: L_DJANGO,
-    //   skillName: "Django",
-    // },
-    // {
-    //   link: "https://flask.palletsprojects.com/",
-    //   imgAltText: "Flask",
-    //   imgSrc: L_FLASK,
-    //   skillName: "Flask",
-    // },
   ],
   hostingPlatforms: [
     {
@@ -140,12 +121,6 @@ export const skills = {
       imgAltText: "JavaScript",
       imgSrc: L_JAVASCRIPT,
       skillName: "JavaScript",
-    },
-    {
-      link: "https://www.python.org/",
-      imgAltText: "Python",
-      imgSrc: L_PYTHON,
-      skillName: "Python",
     },
   ],
   databases: [
