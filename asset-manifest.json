@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/myPortfolioProject/static/css/main.22ae0755.chunk.css",
-    "main.js": "/myPortfolioProject/static/js/main.f6d2ff70.chunk.js",
-    "main.js.map": "/myPortfolioProject/static/js/main.f6d2ff70.chunk.js.map",
+    "main.js": "/myPortfolioProject/static/js/main.e6dcf327.chunk.js",
+    "main.js.map": "/myPortfolioProject/static/js/main.e6dcf327.chunk.js.map",
     "runtime-main.js": "/myPortfolioProject/static/js/runtime-main.b0339b4c.js",
     "runtime-main.js.map": "/myPortfolioProject/static/js/runtime-main.b0339b4c.js.map",
-    "static/js/2.4507a308.chunk.js": "/myPortfolioProject/static/js/2.4507a308.chunk.js",
-    "static/js/2.4507a308.chunk.js.map": "/myPortfolioProject/static/js/2.4507a308.chunk.js.map",
+    "static/js/2.728aafac.chunk.js": "/myPortfolioProject/static/js/2.728aafac.chunk.js",
+    "static/js/2.728aafac.chunk.js.map": "/myPortfolioProject/static/js/2.728aafac.chunk.js.map",
     "index.html": "/myPortfolioProject/index.html",
     "static/css/main.22ae0755.chunk.css.map": "/myPortfolioProject/static/css/main.22ae0755.chunk.css.map",
-    "static/js/2.4507a308.chunk.js.LICENSE.txt": "/myPortfolioProject/static/js/2.4507a308.chunk.js.LICENSE.txt",
+    "static/js/2.728aafac.chunk.js.LICENSE.txt": "/myPortfolioProject/static/js/2.728aafac.chunk.js.LICENSE.txt",
     "static/media/Ayaz_resume.5e5316da.pdf": "/myPortfolioProject/static/media/Ayaz_resume.5e5316da.pdf",
     "static/media/background.webp": "/myPortfolioProject/static/media/background.f6814621.webp",
     "static/media/bookmark_app.cff2c5af.png": "/myPortfolioProject/static/media/bookmark_app.cff2c5af.png",
@@ -28,8 +28,8 @@
     "static/media/mysql.80964b28.png": "/myPortfolioProject/static/media/mysql.80964b28.png",
     "static/media/netlify.5d22f896.png": "/myPortfolioProject/static/media/netlify.5d22f896.png",
     "static/media/nodejs.52cbf9a8.svg": "/myPortfolioProject/static/media/nodejs.52cbf9a8.svg",
+    "static/media/password_generator.aadd4823.png": "/myPortfolioProject/static/media/password_generator.aadd4823.png",
     "static/media/profile.d5cb9593.webp": "/myPortfolioProject/static/media/profile.d5cb9593.webp",
-    "static/media/python.e6d7dc73.svg": "/myPortfolioProject/static/media/python.e6d7dc73.svg",
     "static/media/react-bootstrap.534ba574.svg": "/myPortfolioProject/static/media/react-bootstrap.534ba574.svg",
     "static/media/react-router.a87b7227.svg": "/myPortfolioProject/static/media/react-router.a87b7227.svg",
     "static/media/react.add74742.svg": "/myPortfolioProject/static/media/react.add74742.svg",
@@ -42,8 +42,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b0339b4c.js",
-    "static/js/2.4507a308.chunk.js",
+    "static/js/2.728aafac.chunk.js",
     "static/css/main.22ae0755.chunk.css",
-    "static/js/main.f6d2ff70.chunk.js"
+    "static/js/main.e6dcf327.chunk.js"
   ]
 }
