@@ -51,7 +51,7 @@ const Experience = () => {
                         Developed new features, refined existing features and functionalities.
                       </li>
                       <li>
-                        Responsible for immediately acting upon and fixing any production issues.
+                        Assigned for immediately acting upon and fixing any production issues.
                       </li>
                       <li>
                         {" "}
@@ -87,8 +87,6 @@ const Experience = () => {
                 </div>
                 <div>
                   <div className="text-center style">
-                    <strong> Programmer Analyst Trainee </strong>
-                    <br />
                     <strong>Technology:</strong> React JS, JavaScript ,
                     HTML, CSS, Bootstrap
                     <br />

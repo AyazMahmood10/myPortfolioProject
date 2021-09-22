@@ -36,9 +36,9 @@ const About = () => {
               <br />
               React JS Developer having enterprise level experience in React JS and
               intermediate level knowledge of Express JS, Node JS and Mongo DB.
-              <br />I have strong fundamentals in computer algorithms, dynamic
+              <br />I have strong fundamentals in computer algorithms,
               <br />
-              programming, object oriented programming, relational and NoSQL databases.
+              object oriented programming, relational and NoSQL databases.
               <br />
               Working with the clients, my goal is always driven towards
               providing

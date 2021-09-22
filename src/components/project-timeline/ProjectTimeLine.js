@@ -516,7 +516,7 @@ const ProjectTimeLine = () => {
                             The input and the length of the password can be specfied too.
                           </li>
                           <li>
-                            Genrated password can be copied to clipboard and also can be added to a text file.
+                            Generated password can be copied to clipboard and also can be added to a text file.
                           </li>
                           <li>
                             Created a symlink so that there will be a gloabl command for the password generator.
