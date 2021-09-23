@@ -14,7 +14,6 @@ import Image from "react-bootstrap/Image";
 import "./ProjectTimeLine.css";
 
 // projects
-import L_Pong from "../../assets/img/projects/pong.png";
 import L_TextTract from "../../assets/img/projects/textTract.png";
 import L_Bookmark from "../../assets/img/projects/bookmark_app.png";
 import L_Dictionary from "../../assets/img/projects/dictionary.png";
@@ -303,92 +302,7 @@ const ProjectTimeLine = () => {
               </div>
             </div>
           </ImageEvent>
-          {/* Project: Pong Game */}
-          <ImageEvent
-            date="15/12/2020"
-            className="text-center"
-            text="Pong Game"
-            src={L_Pong}
-            alt="Pong Game"
-          >
-            <div className="d-flex justify-content-between flex-column mt-1">
-              <div>
-                <Accordion>
-                  <Card>
-                    <Accordion.Toggle
-                      as={Card.Header}
-                      eventKey="0"
-                      className="p-2 text-center accordian-main"
-                    >
-                      PROJECT DETAILS
-                    </Accordion.Toggle>
-
-                    <Accordion.Collapse eventKey="0" className="text-left">
-                      <Card.Body>
-                        <strong>Description:</strong> Developed a pong game
-                        where users can compete with the computer and showcase their
-                        pong skills.
-                        <br />
-                        <br />
-                        <strong>Features:</strong>
-                        <ul className="list-styles pt-1">
-                          <li>A full game is of 7 points. Whoever scores to 7 first, wins.</li>
-                          <li>A canvas is created which contains the paddle at the bottom and top of the canvas
-                            One for the user and the other for computer.
-                          </li>
-                          <li>When a game is finished, an option is display for the rematch.</li>
-                        </ul>
-                        <strong>Tech used:</strong>
-                        <ul>
-                        <li>
-                            <span className="p-2">
-                              <Image
-                                src={L_JAVASCRIPT}
-                                alt="JavaScript"
-                                rounded
-                                className="image-style1 m-1"
-                              ></Image>{" "}
-                              JavaScript
-                            </span>
-                          </li>
-                          <li>
-                            <span className="p-2">
-                              <Image
-                                src={L_HTML5}
-                                alt="Html5"
-                                rounded
-                                className="image-style1 m-1"
-                              ></Image>{" "}
-                              HTML5
-                            </span>
-                          </li>
-                          <li>
-                            <span className="p-2">
-                              <Image
-                                src={L_CSS3}
-                                alt="CSS3"
-                                rounded
-                                className="image-style1 m-1"
-                              ></Image>{" "}
-                              CSS3
-                            </span>
-                          </li>
-                        </ul>
-                      </Card.Body>
-                    </Accordion.Collapse>
-                  </Card>
-                </Accordion>
-              </div>
-              <div className="d-flex justify-content-center flex-nowrap text-center">
-                <UrlButton
-                  href="https://github.com/AyazMahmood10/pong"
-                  target="_blank"
-                >
-                  SOURCE CODE
-                </UrlButton>
-              </div>
-            </div>
-          </ImageEvent>
+        
 
           {/* Project: Bookmark App */}
           <ImageEvent

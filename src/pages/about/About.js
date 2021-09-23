@@ -35,7 +35,7 @@ const About = () => {
               Hi there! I am <strong>&nbsp;Ayaz Mahmood.</strong>
               <br />
               React JS Developer having enterprise level experience in React JS and
-              intermediate level knowledge of Express JS, Node JS and Mongo DB.
+              beginner level knowledge of Express JS, Node JS and Mongo DB.
               <br />I have strong fundamentals in computer algorithms,
               <br />
               object oriented programming, relational and NoSQL databases.
