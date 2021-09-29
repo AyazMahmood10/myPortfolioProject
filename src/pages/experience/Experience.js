@@ -48,7 +48,7 @@ const Experience = () => {
                         problems.
                       </li>
                       <li>
-                        Developed new features, refined existing features and functionalities.
+                        Developed components with new features, refined existing features and functionalities.
                       </li>
                       <li>
                         Assigned for immediately acting upon and fixing any production issues.

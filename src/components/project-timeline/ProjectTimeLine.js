@@ -294,7 +294,7 @@ const ProjectTimeLine = () => {
               </div>
               <div className="d-flex justify-content-center flex-nowrap text-center">
                 <UrlButton
-                  href="https://github.com/AyazMahmood10/WordBook"
+                  href="https://github.com/AyazMahmood10/PhraseBook"
                   target="_blank"
                 >
                   SOURCE CODE
